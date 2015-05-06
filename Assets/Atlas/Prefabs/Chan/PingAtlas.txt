@@ -1,0 +1,44 @@
+{"frames": {
+
+"disconnect.png":
+{
+	"frame": {"x":42,"y":32,"w":38,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":28},
+	"sourceSize": {"w":38,"h":28}
+},
+"excellent.png":
+{
+	"frame": {"x":2,"y":32,"w":38,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":28},
+	"sourceSize": {"w":38,"h":28}
+},
+"low.png":
+{
+	"frame": {"x":42,"y":2,"w":38,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":28},
+	"sourceSize": {"w":38,"h":28}
+},
+"normal.png":
+{
+	"frame": {"x":2,"y":2,"w":38,"h":28},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":38,"h":28},
+	"sourceSize": {"w":38,"h":28}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "PingAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":82,"h":63},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:37ebba550935385a18e2957642b6aefd$"
+}
+}

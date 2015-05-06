@@ -1,0 +1,44 @@
+{"frames": {
+
+"Phones.png":
+{
+	"frame": {"x":152,"y":2,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"Phones2.png":
+{
+	"frame": {"x":102,"y":2,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"sky.png":
+{
+	"frame": {"x":52,"y":2,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"yahoo.png":
+{
+	"frame": {"x":2,"y":2,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "SupportAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":202,"h":53},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4e11412058e22af661e5e3284b12d580$"
+}
+}

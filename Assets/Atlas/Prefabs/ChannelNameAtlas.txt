@@ -1,0 +1,52 @@
+{"frames": {
+
+"amateur.png":
+{
+	"frame": {"x":2,"y":36,"w":131,"h":32},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":34,"y":0,"w":131,"h":32},
+	"sourceSize": {"w":189,"h":32}
+},
+"boss.png":
+{
+	"frame": {"x":135,"y":36,"w":95,"h":28},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":52,"y":4,"w":95,"h":28},
+	"sourceSize": {"w":189,"h":32}
+},
+"master.png":
+{
+	"frame": {"x":113,"y":70,"w":107,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":44,"y":0,"w":107,"h":30},
+	"sourceSize": {"w":189,"h":32}
+},
+"pro.png":
+{
+	"frame": {"x":2,"y":2,"w":189,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":189,"h":32},
+	"sourceSize": {"w":189,"h":32}
+},
+"tour.png":
+{
+	"frame": {"x":2,"y":70,"w":109,"h":30},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":45,"y":0,"w":109,"h":30},
+	"sourceSize": {"w":189,"h":32}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "ChannelNameAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":232,"h":102},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:00379d04eed22e37a6f16919d86c44dc$"
+}
+}

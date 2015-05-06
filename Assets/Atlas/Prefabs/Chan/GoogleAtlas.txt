@@ -1,0 +1,20 @@
+{"frames": {
+
+"bkg_spinner_test.png":
+{
+	"frame": {"x":0,"y":0,"w":256,"h":46},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":46},
+	"sourceSize": {"w":256,"h":46}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "GoogleAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":46},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:01e19b193aa5cd71fc6b9df0bf363b7a:1/1$"
+}
+}

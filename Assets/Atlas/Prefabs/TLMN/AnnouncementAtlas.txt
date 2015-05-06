@@ -1,0 +1,28 @@
+{"frames": {
+
+"not_to_day.png":
+{
+	"frame": {"x":167,"y":0,"w":166,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":166,"h":169},
+	"sourceSize": {"w":166,"h":169}
+},
+"to_day.png":
+{
+	"frame": {"x":0,"y":0,"w":166,"h":169},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":166,"h":169},
+	"sourceSize": {"w":166,"h":169}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "AnnouncementAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":333,"h":169},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6b5b42571e334f1d22652278e6a1347f:e9d5790dcccccafb39d2d9a0bbd3e665:99482ea4dbebddabfd9ad966638eb153$"
+}
+}

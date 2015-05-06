@@ -1,0 +1,44 @@
+{"frames": {
+
+"bghoavan.png":
+{
+	"frame": {"x":2,"y":2,"w":240,"h":240},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":240},
+	"sourceSize": {"w":240,"h":240}
+},
+"bgnen.png":
+{
+	"frame": {"x":244,"y":2,"w":200,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":200},
+	"sourceSize": {"w":200,"h":200}
+},
+"bottonbg.png":
+{
+	"frame": {"x":301,"y":204,"w":55,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":22},
+	"sourceSize": {"w":55,"h":22}
+},
+"topbg.png":
+{
+	"frame": {"x":244,"y":204,"w":55,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":55,"h":22},
+	"sourceSize": {"w":55,"h":22}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "BackgroundAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":446,"h":244},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:2f76169e3d7718c684dbded87eb08be4$"
+}
+}

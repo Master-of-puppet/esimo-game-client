@@ -1,0 +1,52 @@
+{"frames": {
+
+"back.png":
+{
+	"frame": {"x":2,"y":144,"w":62,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":62},
+	"sourceSize": {"w":62,"h":62}
+},
+"btn_login.png":
+{
+	"frame": {"x":2,"y":76,"w":66,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
+	"sourceSize": {"w":66,"h":66}
+},
+"btn_login_facebook.png":
+{
+	"frame": {"x":2,"y":2,"w":72,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":72,"h":72},
+	"sourceSize": {"w":72,"h":72}
+},
+"btn_register.png":
+{
+	"frame": {"x":2,"y":208,"w":66,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
+	"sourceSize": {"w":66,"h":66}
+},
+"line.png":
+{
+	"frame": {"x":76,"y":2,"w":11,"h":204},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":204},
+	"sourceSize": {"w":11,"h":204}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "LoginAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":89,"h":276},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:979d383f46c360275ff9ba6d57d5233c$"
+}
+}

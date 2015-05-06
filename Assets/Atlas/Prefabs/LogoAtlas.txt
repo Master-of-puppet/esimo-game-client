@@ -1,0 +1,44 @@
+{"frames": {
+
+"TLMN.png":
+{
+	"frame": {"x":2,"y":2,"w":241,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":241,"h":139},
+	"sourceSize": {"w":241,"h":139}
+},
+"chan.png":
+{
+	"frame": {"x":245,"y":133,"w":240,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":104},
+	"sourceSize": {"w":240,"h":104}
+},
+"phom.png":
+{
+	"frame": {"x":245,"y":2,"w":240,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":129},
+	"sourceSize": {"w":240,"h":129}
+},
+"poker.png":
+{
+	"frame": {"x":2,"y":143,"w":240,"h":101},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":240,"h":101},
+	"sourceSize": {"w":240,"h":101}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "LogoAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":487,"h":246},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fe9fbc2b54762c42ac620c48563578ff$"
+}
+}

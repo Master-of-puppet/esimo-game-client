@@ -1,0 +1,84 @@
+{"frames": {
+
+"01.png":
+{
+	"frame": {"x":214,"y":294,"w":106,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":106,"h":146},
+	"sourceSize": {"w":110,"h":150}
+},
+"02.png":
+{
+	"frame": {"x":214,"y":147,"w":106,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":106,"h":146},
+	"sourceSize": {"w":110,"h":150}
+},
+"03.png":
+{
+	"frame": {"x":107,"y":294,"w":106,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":106,"h":146},
+	"sourceSize": {"w":110,"h":150}
+},
+"04.png":
+{
+	"frame": {"x":107,"y":147,"w":106,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":106,"h":146},
+	"sourceSize": {"w":110,"h":150}
+},
+"05.png":
+{
+	"frame": {"x":0,"y":294,"w":106,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":106,"h":146},
+	"sourceSize": {"w":110,"h":150}
+},
+"06.png":
+{
+	"frame": {"x":0,"y":147,"w":106,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":106,"h":146},
+	"sourceSize": {"w":110,"h":150}
+},
+"07.png":
+{
+	"frame": {"x":214,"y":0,"w":106,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":106,"h":146},
+	"sourceSize": {"w":110,"h":150}
+},
+"08.png":
+{
+	"frame": {"x":107,"y":0,"w":106,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":106,"h":146},
+	"sourceSize": {"w":110,"h":150}
+},
+"09.png":
+{
+	"frame": {"x":0,"y":0,"w":106,"h":146},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":2,"w":106,"h":146},
+	"sourceSize": {"w":110,"h":150}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "CardEffectAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":320,"h":440},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e4efdbfe1927b984085fc2a949dca6f2:1/1$"
+}
+}

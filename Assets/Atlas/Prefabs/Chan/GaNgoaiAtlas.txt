@@ -1,0 +1,36 @@
+{"frames": {
+
+"bkg_Avatar.png":
+{
+	"frame": {"x":84,"y":2,"w":67,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":67},
+	"sourceSize": {"w":67,"h":67}
+},
+"bkg_user.png":
+{
+	"frame": {"x":2,"y":2,"w":80,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":80},
+	"sourceSize": {"w":80,"h":80}
+},
+"border_card.png":
+{
+	"frame": {"x":84,"y":71,"w":42,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":42,"h":42},
+	"sourceSize": {"w":42,"h":42}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "GaNgoaiAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":153,"h":115},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:4d2c67330996b3b12cf50dbbd7234a55$"
+}
+}

@@ -1,0 +1,206 @@
+window.fbAsyncInit = function() {
+	FB.init({
+		appId	: '%applicationID%', // App ID
+		status	: true, // check login status
+		cookie	: true, // enable cookies to allow the server to access the session
+		oauth	: true, // enable OAuth 2.0
+		xfbml	: true  // parse XFBML
+	});
+};
+  
+(function(d){
+	var element = d.createElement("div");
+	element.innerHTML = "<div id='fb-root'></div>";
+	d.getElementsByTagName('body')[0].appendChild( element );
+	var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+	js = d.createElement('script'); js.id = id; js.async = true;
+	js.src = "https://connect.facebook.net/en_US/all.js";
+	d.getElementsByTagName('head')[0].appendChild(js);
+}(document));
+
+
+function login( scope ) {   
+	FB.login(
+		function(response) {		
+			if (response.authResponse) {			
+				u.getUnity().SendMessage("FacebookWeb", "defineToken", response.authResponse.accessToken );
+				u.getUnity().SendMessage("FacebookWeb", "onLoginExitoso", JSON.stringify( response ) );
+			} else {
+				u.getUnity().SendMessage("FacebookWeb", "onLoginFallido", JSON.stringify( response ) );
+			}	   
+		}, 
+		{scope: scope }
+	);          
+}
+
+function logout( ) {   
+	FB.logout(
+		function(response) {			
+			if (!response || response.error) {  
+ 				u.getUnity().SendMessage("FacebookWeb", "onLogoutFallido", JSON.stringify( response ) );
+  			} else {
+				u.getUnity().SendMessage("FacebookWeb", "onLogoutExitoso", JSON.stringify( response ) );
+  			}  
+		}
+	);          
+}
+
+function getLoginStatus( ) {   
+	FB.getLoginStatus(
+		function(response) {			
+			if (!response.authResponse) {  
+				u.getUnity().SendMessage("FacebookWeb", "defineToken", response.authResponse.accessToken );
+ 				u.getUnity().SendMessage("FacebookWeb", "onGetLoginStatusFallido", JSON.stringify( response ) );
+  			} else {
+    			u.getUnity().SendMessage("FacebookWeb", "onGetLoginStatusExitoso", JSON.stringify( response ) );
+  			}  
+		}
+	);          
+}
+
+
+function getLoginStatusdos( ) {   
+	FB.getLoginStatus(
+		function(response) {
+			
+			if (response.status == 'connected')
+			 {				
+ 				u.getUnity().SendMessage("FacebookWeb", "onGetLoginStatusconnected", JSON.stringify( response ) );
+  			 } 
+  			else if (response.status == 'not_authorized')
+  			 {
+    			u.getUnity().SendMessage("FacebookWeb", "onGetLoginStatusnot_authorized", JSON.stringify( response ) );
+  			 }
+  			 else
+  			 {u.getUnity().SendMessage("FacebookWeb", "onGetLoginStatusnotlogged", JSON.stringify( response ) );}  
+		}
+	);          
+}
+
+
+function postFeed( message, picture, link )
+{
+	FB.api(	'/me/feed',
+			'post', 
+			{ 
+				message:	message,
+				picture:	picture,
+				link:		link 
+			}, 
+			function(response) {
+ 				if (!response || response.error) {  
+ 					u.getUnity().SendMessage("FacebookWeb", "onPostFeedFallido", JSON.stringify( response ) );
+  				} else {
+    				u.getUnity().SendMessage("FacebookWeb", "onPostFeedExitoso", JSON.stringify( response ) );
+  				}
+			}
+	);
+}
+
+function uiAppRequest( title, message ) {
+	FB.ui(
+			{
+				method:		'apprequests',
+      			message:	message,
+      			title:		title
+    		}, 
+    		function(response) {
+    			if (!response || response.error) {
+    				u.getUnity().SendMessage("FacebookWeb", "onUiAppRequestFallido", JSON.stringify( response ) );
+  				} else {
+    				u.getUnity().SendMessage("FacebookWeb", "onUiAppRequestExitoso", JSON.stringify( response ) );
+  				}    	    			
+			}
+	);
+}
+      
+function uiFeedRequest( link, picture, name, caption, description ) {
+	FB.ui(
+			{
+				method:			'feed',
+				name: 			name,
+				link:			link,
+				picture:		picture, 
+				caption:		caption,
+				description:	description
+			}, 
+			function(response) {
+				if (!response || response.error) {    	
+					u.getUnity().SendMessage("FacebookWeb", "onUiFeedRequestFallido", JSON.stringify( response ) );
+				} else {
+					u.getUnity().SendMessage("FacebookWeb", "onUiFeedRequestExitoso", JSON.stringify( response ) );
+				}
+			}
+	);
+}      
+
+function graphRequest( request )
+{
+	FB.api( request, 
+		function( response ) {
+			if (!response || response.error) { 
+  				u.getUnity().SendMessage("FacebookWeb", "onGraphRequestFallido", JSON.stringify( response ) );
+  			} else {
+  				u.getUnity().SendMessage("FacebookWeb", "onGraphRequestExitoso", JSON.stringify( response ) );
+  			}
+  		});
+}
+
+function postear( para, message, name, description, picture, caption, link )
+{
+	FB.api(	para, 'post', 
+			{ 
+				message:	message,
+				name:		name,
+				description:	description,
+				picture:	picture,
+				caption:	caption,
+				link:		link 
+			}, 
+			function(response) {
+ 				if (!response || response.error) {  
+ 					u.getUnity().SendMessage("FacebookWeb", "onPostFeedFallido", JSON.stringify( response ) );
+  				} else {
+    				u.getUnity().SendMessage("FacebookWeb", "onPostFeedExitoso", JSON.stringify( response ) );
+  				}
+			}
+	);
+}
+
+function postearv( para, message, name, description, picture, caption, source, link )
+{
+	FB.api(	para, 'post', 
+			{ 
+				message:	message,
+				name:		name,
+				description:	description,
+				picture:	picture,
+				caption:	caption,
+				source:	source, 
+				link:		link 
+			}, 
+			function(response) {				
+ 				if (!response || response.error) {  
+ 					u.getUnity().SendMessage("FacebookWeb", "onPostFeedFallido", JSON.stringify( response ) );
+  				} else {
+    				u.getUnity().SendMessage("FacebookWeb", "onPostFeedExitoso", JSON.stringify( response ) );
+  				}
+			}
+	);
+}
+
+function photo(message, link)
+{	
+	FB.api('/me/photos', 'post', 
+	{
+		message: message,
+		url:link
+	}, function(response){
+
+	    if (!response || response.error) {
+	        u.getUnity().SendMessage("FacebookWeb", "onPostFeedFallido", JSON.stringify( response ) );
+		} else {
+		    u.getUnity().SendMessage("FacebookWeb", "onPostFeedExitoso", JSON.stringify( response ) );
+	    }
+	});
+}

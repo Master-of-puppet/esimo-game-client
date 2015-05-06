@@ -1,0 +1,28 @@
+{"frames": {
+
+"Arrow.png":
+{
+	"frame": {"x":2,"y":53,"w":30,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":60},
+	"sourceSize": {"w":30,"h":60}
+},
+"background.png":
+{
+	"frame": {"x":2,"y":2,"w":100,"h":49},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":49},
+	"sourceSize": {"w":100,"h":49}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "EsimoAtlasHall.png",
+	"format": "RGBA8888",
+	"size": {"w":104,"h":115},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:869741ca6c73b07bb6ec83ea49f80503$"
+}
+}

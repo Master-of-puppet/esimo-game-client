@@ -1,0 +1,116 @@
+{"frames": {
+
+"arrow_invited_normal.png":
+{
+	"frame": {"x":230,"y":30,"w":24,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":26},
+	"sourceSize": {"w":24,"h":26}
+},
+"arrow_invited_selected.png":
+{
+	"frame": {"x":230,"y":2,"w":24,"h":26},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":26},
+	"sourceSize": {"w":24,"h":26}
+},
+"arrow_status.png":
+{
+	"frame": {"x":2,"y":210,"w":15,"h":27},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":15,"h":27},
+	"sourceSize": {"w":15,"h":27}
+},
+"bkg_status.png":
+{
+	"frame": {"x":207,"y":148,"w":45,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":45,"h":50},
+	"sourceSize": {"w":45,"h":50}
+},
+"button_dialog_view_profile.png":
+{
+	"frame": {"x":210,"y":74,"w":44,"h":72},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":72},
+	"sourceSize": {"w":44,"h":72}
+},
+"double_line.png":
+{
+	"frame": {"x":187,"y":158,"w":8,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":8,"h":50},
+	"sourceSize": {"w":8,"h":50}
+},
+"iconCaNhan.png":
+{
+	"frame": {"x":2,"y":146,"w":183,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":44},
+	"sourceSize": {"w":183,"h":44}
+},
+"iconPhomVuong.png":
+{
+	"frame": {"x":2,"y":2,"w":154,"h":142},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":142},
+	"sourceSize": {"w":154,"h":142}
+},
+"icon_view_profile.png":
+{
+	"frame": {"x":187,"y":126,"w":18,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":30},
+	"sourceSize": {"w":18,"h":30}
+},
+"profile_dashboard_information.png":
+{
+	"frame": {"x":197,"y":200,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"profile_message_right_tab_forcus.png":
+{
+	"frame": {"x":19,"y":210,"w":20,"h":20},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":20},
+	"sourceSize": {"w":20,"h":20}
+},
+"profile_message_right_tab_forcus2.png":
+{
+	"frame": {"x":158,"y":74,"w":50,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":50},
+	"sourceSize": {"w":50,"h":50}
+},
+"profile_message_right_tab_normal.png":
+{
+	"frame": {"x":158,"y":2,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "ProfileGeneralAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:1c994d173fe10baa828a17f49465e4ae$"
+}
+}

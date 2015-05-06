@@ -1,0 +1,84 @@
+{"frames": {
+
+"btQuitNow.png":
+{
+	"frame": {"x":0,"y":0,"w":236,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":236,"h":66},
+	"sourceSize": {"w":236,"h":66}
+},
+"btXacNhan.png":
+{
+	"frame": {"x":237,"y":0,"w":196,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":196,"h":66},
+	"sourceSize": {"w":196,"h":66}
+},
+"iconChat.png":
+{
+	"frame": {"x":550,"y":0,"w":39,"h":38},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":39,"h":38},
+	"sourceSize": {"w":39,"h":38}
+},
+"iconInfo.png":
+{
+	"frame": {"x":518,"y":51,"w":48,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":32},
+	"sourceSize": {"w":48,"h":32}
+},
+"iconManager.png":
+{
+	"frame": {"x":518,"y":84,"w":44,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":44,"h":34},
+	"sourceSize": {"w":44,"h":34}
+},
+"tabFriend.png":
+{
+	"frame": {"x":434,"y":0,"w":115,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":50},
+	"sourceSize": {"w":115,"h":50}
+},
+"tabFriendOnClick.png":
+{
+	"frame": {"x":402,"y":67,"w":115,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":115,"h":50},
+	"sourceSize": {"w":115,"h":50}
+},
+"tabNgOnline.png":
+{
+	"frame": {"x":201,"y":67,"w":200,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":50},
+	"sourceSize": {"w":200,"h":50}
+},
+"tabNgOnlineOnClick.png":
+{
+	"frame": {"x":0,"y":67,"w":200,"h":50},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":200,"h":50},
+	"sourceSize": {"w":200,"h":50}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "GameplayManagerAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":589,"h":118},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:90a1b6ace837876cb596680489f7ad3e:1/1$"
+}
+}

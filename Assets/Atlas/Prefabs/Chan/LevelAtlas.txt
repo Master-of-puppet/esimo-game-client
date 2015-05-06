@@ -1,0 +1,52 @@
+{"frames": {
+
+"avatar_border.png":
+{
+	"frame": {"x":2,"y":26,"w":74,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":74},
+	"sourceSize": {"w":74,"h":74}
+},
+"bkg_Avatar.png":
+{
+	"frame": {"x":78,"y":26,"w":67,"h":67},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":67,"h":67},
+	"sourceSize": {"w":67,"h":67}
+},
+"exp_bkg.png":
+{
+	"frame": {"x":2,"y":2,"w":144,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":22},
+	"sourceSize": {"w":144,"h":22}
+},
+"process1_level.png":
+{
+	"frame": {"x":2,"y":102,"w":80,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":10},
+	"sourceSize": {"w":80,"h":10}
+},
+"process2_level.png":
+{
+	"frame": {"x":84,"y":95,"w":20,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":8},
+	"sourceSize": {"w":20,"h":8}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "LevelAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":148,"h":114},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:50763e9e99ad90cdcbfdd1da6b0853e6$"
+}
+}

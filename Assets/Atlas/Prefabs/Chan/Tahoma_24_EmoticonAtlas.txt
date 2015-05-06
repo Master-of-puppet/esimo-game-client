@@ -1,0 +1,124 @@
+{"frames": {
+
+"Tahomo Bitmap_0.png":
+{
+	"frame": {"x":2,"y":2,"w":256,"h":250},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":256,"h":250},
+	"sourceSize": {"w":256,"h":256}
+},
+"argh-smiley-emoticon.png":
+{
+	"frame": {"x":260,"y":230,"w":24,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":22},
+	"sourceSize": {"w":24,"h":22}
+},
+"brick-hitting-face-smiley-emoticon.png":
+{
+	"frame": {"x":260,"y":181,"w":24,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":23},
+	"sourceSize": {"w":24,"h":23}
+},
+"bye-bye-smiley-emoticon.png":
+{
+	"frame": {"x":260,"y":156,"w":24,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":23},
+	"sourceSize": {"w":24,"h":23}
+},
+"cry-smiley-emoticon.png":
+{
+	"frame": {"x":54,"y":254,"w":24,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":21},
+	"sourceSize": {"w":24,"h":21}
+},
+"crying-smiley-emoticon.png":
+{
+	"frame": {"x":260,"y":131,"w":24,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":23},
+	"sourceSize": {"w":24,"h":23}
+},
+"demanding-smiley-emoticon.png":
+{
+	"frame": {"x":260,"y":55,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+},
+"drooling-smiley-emoticon.png":
+{
+	"frame": {"x":260,"y":2,"w":24,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":25},
+	"sourceSize": {"w":24,"h":25}
+},
+"eating-smiley-emoticon.png":
+{
+	"frame": {"x":260,"y":106,"w":24,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":23},
+	"sourceSize": {"w":24,"h":23}
+},
+"feeling-of-adoration-smiley-emoticon.png":
+{
+	"frame": {"x":260,"y":206,"w":24,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":22},
+	"sourceSize": {"w":24,"h":22}
+},
+"in-doubt-smiley-emoticon.png":
+{
+	"frame": {"x":28,"y":254,"w":24,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":21},
+	"sourceSize": {"w":24,"h":21}
+},
+"kisses-smiley-emoticon.png":
+{
+	"frame": {"x":260,"y":81,"w":24,"h":23},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":23},
+	"sourceSize": {"w":24,"h":23}
+},
+"love-struck-smiley-emoticon.png":
+{
+	"frame": {"x":260,"y":29,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24}
+},
+"very-sure-smiley-emoticon.png":
+{
+	"frame": {"x":2,"y":254,"w":24,"h":21},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":21},
+	"sourceSize": {"w":24,"h":21}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "Tahoma_24_EmoticonAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":286,"h":286},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:88039ad050d23f160cb889eff7d6e035:9c9383f3bf19ad622803cb3a9e9e05f1:d0a1e9bbf541d19ce3a40fd116594d5e$"
+}
+}

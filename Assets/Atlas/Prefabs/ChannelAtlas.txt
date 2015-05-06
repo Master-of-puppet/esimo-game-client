@@ -1,0 +1,124 @@
+{"frames": {
+
+"bich.png":
+{
+	"frame": {"x":274,"y":180,"w":66,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
+	"sourceSize": {"w":66,"h":66}
+},
+"bkg_list_giai_dau.png":
+{
+	"frame": {"x":538,"y":2,"w":40,"h":44},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":44},
+	"sourceSize": {"w":40,"h":44}
+},
+"button_channel.png":
+{
+	"frame": {"x":270,"y":2,"w":266,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":176},
+	"sourceSize": {"w":266,"h":176}
+},
+"chieucoi.png":
+{
+	"frame": {"x":342,"y":180,"w":123,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":123,"h":31},
+	"sourceSize": {"w":123,"h":31}
+},
+"co.png":
+{
+	"frame": {"x":206,"y":180,"w":66,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
+	"sourceSize": {"w":66,"h":66}
+},
+"empty_dot.png":
+{
+	"frame": {"x":441,"y":245,"w":97,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":8},
+	"sourceSize": {"w":97,"h":8}
+},
+"full_dot.png":
+{
+	"frame": {"x":342,"y":246,"w":97,"h":6},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":97,"h":6},
+	"sourceSize": {"w":97,"h":6}
+},
+"giaidau.png":
+{
+	"frame": {"x":2,"y":2,"w":266,"h":176},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":266,"h":176},
+	"sourceSize": {"w":266,"h":176}
+},
+"icon.png":
+{
+	"frame": {"x":138,"y":180,"w":66,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
+	"sourceSize": {"w":66,"h":66}
+},
+"nendat.png":
+{
+	"frame": {"x":467,"y":180,"w":109,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":109,"h":29},
+	"sourceSize": {"w":109,"h":29}
+},
+"phango.png":
+{
+	"frame": {"x":431,"y":213,"w":113,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":113,"h":30},
+	"sourceSize": {"w":113,"h":30}
+},
+"ro.png":
+{
+	"frame": {"x":70,"y":180,"w":66,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
+	"sourceSize": {"w":66,"h":66}
+},
+"sapgu.png":
+{
+	"frame": {"x":342,"y":213,"w":87,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":87,"h":31},
+	"sourceSize": {"w":87,"h":31}
+},
+"tep.png":
+{
+	"frame": {"x":2,"y":180,"w":66,"h":66},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":66,"h":66},
+	"sourceSize": {"w":66,"h":66}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "ChannelAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":580,"h":255},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d5d7b5f0da1c42e9eee7f76c43a43817$"
+}
+}

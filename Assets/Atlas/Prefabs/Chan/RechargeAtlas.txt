@@ -1,0 +1,100 @@
+{"frames": {
+
+"gate.png":
+{
+	"frame": {"x":318,"y":370,"w":156,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":96},
+	"sourceSize": {"w":156,"h":96}
+},
+"mobifone.png":
+{
+	"frame": {"x":160,"y":370,"w":156,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":96},
+	"sourceSize": {"w":156,"h":96}
+},
+"nap_chip_title.png":
+{
+	"frame": {"x":2,"y":444,"w":140,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":29},
+	"sourceSize": {"w":140,"h":29}
+},
+"sms15000.png":
+{
+	"frame": {"x":2,"y":174,"w":160,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":170},
+	"sourceSize": {"w":160,"h":170}
+},
+"sms35000.png":
+{
+	"frame": {"x":164,"y":2,"w":160,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":170},
+	"sourceSize": {"w":160,"h":170}
+},
+"sms50000.png":
+{
+	"frame": {"x":2,"y":2,"w":160,"h":170},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":160,"h":170},
+	"sourceSize": {"w":160,"h":170}
+},
+"syntax_border.png":
+{
+	"frame": {"x":322,"y":174,"w":110,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":40},
+	"sourceSize": {"w":110,"h":40}
+},
+"syntax_space.png":
+{
+	"frame": {"x":322,"y":216,"w":40,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":10},
+	"sourceSize": {"w":40,"h":10}
+},
+"vcoin.png":
+{
+	"frame": {"x":2,"y":346,"w":156,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":96},
+	"sourceSize": {"w":156,"h":96}
+},
+"viettel.png":
+{
+	"frame": {"x":164,"y":272,"w":156,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":96},
+	"sourceSize": {"w":156,"h":96}
+},
+"vinaphone.png":
+{
+	"frame": {"x":164,"y":174,"w":156,"h":96},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":156,"h":96},
+	"sourceSize": {"w":156,"h":96}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "RechargeAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":476,"h":476},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c2eae7bc3c8971c1103f61e1c313b9a5:3372919762b82cbe92867ffbe4afa3bd:9167cb33ceac08255f1c79f4db46fe87$"
+}
+}

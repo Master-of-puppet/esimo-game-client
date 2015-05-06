@@ -1,0 +1,84 @@
+{"frames": {
+
+"avatar_border.png":
+{
+	"frame": {"x":59,"y":2,"w":74,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":74,"h":74},
+	"sourceSize": {"w":74,"h":74}
+},
+"bgNumber.png":
+{
+	"frame": {"x":135,"y":52,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32}
+},
+"bkg_chat.png":
+{
+	"frame": {"x":135,"y":2,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+"bkg_header_menu.png":
+{
+	"frame": {"x":2,"y":2,"w":18,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":100},
+	"sourceSize": {"w":18,"h":100}
+},
+"btn_show.png":
+{
+	"frame": {"x":22,"y":2,"w":35,"h":76},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":35,"h":76},
+	"sourceSize": {"w":35,"h":76}
+},
+"exp_bkg.png":
+{
+	"frame": {"x":2,"y":104,"w":144,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":144,"h":22},
+	"sourceSize": {"w":144,"h":22}
+},
+"notification_msg.png":
+{
+	"frame": {"x":22,"y":80,"w":24,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":19},
+	"sourceSize": {"w":24,"h":19}
+},
+"process1_level.png":
+{
+	"frame": {"x":48,"y":80,"w":80,"h":10},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":10},
+	"sourceSize": {"w":80,"h":10}
+},
+"process2_level.png":
+{
+	"frame": {"x":48,"y":92,"w":20,"h":8},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":8},
+	"sourceSize": {"w":20,"h":8}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "HeaderMenuAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e0ba032859b02789463d796a5233f9dc$"
+}
+}

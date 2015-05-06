@@ -1,0 +1,60 @@
+{"frames": {
+
+"outline1.png":
+{
+	"frame": {"x":114,"y":786,"w":110,"h":390},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":390},
+	"sourceSize": {"w":110,"h":390}
+},
+"outline2.png":
+{
+	"frame": {"x":114,"y":394,"w":110,"h":390},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":390},
+	"sourceSize": {"w":110,"h":390}
+},
+"outline3.png":
+{
+	"frame": {"x":2,"y":786,"w":110,"h":390},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":390},
+	"sourceSize": {"w":110,"h":390}
+},
+"outline4.png":
+{
+	"frame": {"x":2,"y":394,"w":110,"h":390},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":390},
+	"sourceSize": {"w":110,"h":390}
+},
+"outline5.png":
+{
+	"frame": {"x":114,"y":2,"w":110,"h":390},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":390},
+	"sourceSize": {"w":110,"h":390}
+},
+"outline6.png":
+{
+	"frame": {"x":2,"y":2,"w":110,"h":390},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":110,"h":390},
+	"sourceSize": {"w":110,"h":390}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "CardEffectAtlas.png",
+	"format": "RGBA8888",
+	"size": {"w":226,"h":1178},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:71a306ec7a717201718a236db6453149:6045a0e26f4b7649fefc8165d6acdbc3:147169cc39618c23c64972deeb4ea922$"
+}
+}
